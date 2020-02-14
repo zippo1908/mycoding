@@ -1,0 +1,1 @@
+export const Fetch_Successful = 'Fetch_Successful'
